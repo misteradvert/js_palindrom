@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.headline {
+    color: white;
+    font-size: 2rem;
+}
+
+.paragraph {
+    color: greenyellow;
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid yellowgreen;
+    border-radius: 50px;
+}
+
